@@ -4,8 +4,8 @@
  */
 package com.example.demo.Interface;
 
-import org.springframework.data.repository.CrudRepository;
 import com.example.demo.Modelo.Reservation;
+import org.springframework.data.repository.CrudRepository;
 /**
  *
  * @author USUARIO
