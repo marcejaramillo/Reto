@@ -21,7 +21,7 @@ import java.util.Optional;
 @RequestMapping("/api/Message")
 
 public class MessageController {
-      @Autowired
+    @Autowired
     private MessageService messageService;
     
     @GetMapping("/all")
