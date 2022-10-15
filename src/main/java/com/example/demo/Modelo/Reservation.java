@@ -5,8 +5,10 @@
 package com.example.demo.Modelo;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import org.hibernate.engine.jdbc.SerializableBlobProxy;
 
 import javax.persistence.*;
+import java.io.Serializable;
 import java.util.Date;
 
 /**
@@ -17,7 +19,7 @@ import java.util.Date;
 @Entity
 @Table(name = "reservation")
 
-public class Reservation {
+public class Reservation implements Serializable {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
      private Integer idReservation;
@@ -35,7 +37,7 @@ public class Reservation {
     @JsonIgnoreProperties({"reservations","messages"})
     private Client client;
     
-     private String score;
+    private String score;
 
     public Integer getIdReservation() {
         return idReservation;

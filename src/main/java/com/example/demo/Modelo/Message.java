@@ -7,6 +7,7 @@ package com.example.demo.Modelo;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import javax.persistence.*;
+import java.io.Serializable;
 
 /**
  *
@@ -15,7 +16,7 @@ import javax.persistence.*;
 @Entity
 @Table(name = "message")
 
-public class Message {
+public class Message implements Serializable {
      @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
      private Integer idMessage;

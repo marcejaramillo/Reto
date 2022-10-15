@@ -29,7 +29,7 @@ public class MessageController {
         return messageService.getAll();
     }
     
-    @GetMapping("/id")
+    @GetMapping("/{id}")
     public Optional<Message> getMessage(@PathVariable("id") int id){
         return messageService.getMessage(id);
     } 
