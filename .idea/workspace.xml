@@ -6,24 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c9157880-3c93-49ed-929a-78a0a8377926" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Controlador/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/Controlador/CategoryController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Controlador/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/Controlador/ClientController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Controlador/MessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/Controlador/MessageController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Controlador/QuadbikeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/Controlador/QuadbikeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Modelo/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/Modelo/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Modelo/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/Modelo/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Modelo/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/Modelo/Message.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Modelo/Quadbike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/Modelo/Quadbike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Modelo/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/Modelo/Reservation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/Controlador/CategoryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/Controlador/CategoryController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/Controlador/ClientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/Controlador/ClientController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/Controlador/MessageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/Controlador/MessageController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/Controlador/QuadbikeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/Controlador/QuadbikeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/Modelo/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/Modelo/Category.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/Modelo/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/Modelo/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/Modelo/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/Modelo/Message.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/Modelo/Quadbike.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/Modelo/Quadbike.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/demo/Modelo/Reservation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/demo/Modelo/Reservation.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +49,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/HP/Documents/ciclo3/reto3 - copia/demo",
+    "last_opened_file_path": "C:/Users/HP/Documents/ciclo3/reto 3 alejanddra/Reto3G33",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -116,7 +98,7 @@
       <workItem from="1665590983515" duration="1230000" />
       <workItem from="1665612993864" duration="623000" />
       <workItem from="1665622295375" duration="456000" />
-      <workItem from="1665860923255" duration="6090000" />
+      <workItem from="1665860923255" duration="7002000" />
     </task>
     <servers />
   </component>
