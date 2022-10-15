@@ -29,7 +29,7 @@ public class QuadbikeController {
         return quadbikeService.getAll();
     }
     
-    @GetMapping("/{id}")
+    @GetMapping("/id")
     public Optional<Quadbike> getQuadbike(@PathVariable("id") int id){
         return quadbikeService.getQuadbike(id);
     } 
